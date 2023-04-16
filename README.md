@@ -1,6 +1,6 @@
 # lobo_font_to_py
 
-Utylity to convert fonts to Python.
+Utility to convert fonts to Python.
 
 ## Installation
 
