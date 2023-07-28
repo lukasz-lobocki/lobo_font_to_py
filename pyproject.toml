@@ -1,6 +1,6 @@
 [tool.poetry]
 name = "lobo_font_to_py"
-version = "0.2.3"
+version = "0.2.4"
 description = "Utility to convert fonts to Python."
 authors = ["Lukasz Lobocki"]
 license = "CC0 v1.0 Universal"
